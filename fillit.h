@@ -21,20 +21,20 @@ typedef         struct
 {
 	char		*str;
 	int         h;
-    int         w;
+	int         w;
 }               tetr_mask;
 
 typedef         struct
 {
-    int        x;
-    int        y;
+	int        x;
+	int        y;
 }              location_mark;
 
 typedef         struct 
 {
 	char		*str;
 	int         h;
-    int         w;
+	int         w;
 }               board;
 
 typedef         struct 

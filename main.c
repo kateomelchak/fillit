@@ -20,8 +20,8 @@ int	main(int argc, char **argv)
 /* 	tetr	*all_read[MAX_FIG];
 
 	ft_memset(all_read, 0, sizeof(tetr *) * MAX_FIG);
+	*/
 	i = 1;
-*/
 	if (argc > 1)
 	{
 		while (i < argc)
